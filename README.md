@@ -1,4 +1,4 @@
 # weather-page
 
-React Web app
+Web app
 weather app by location
